@@ -1,5 +1,5 @@
 ---
-name: goteborg-stad
+name: grafisk-profil-gbg
 description: Komplett guide för Göteborgs Stads grafiska profil inklusive typsnitt, färger, logotyp och riktlinjer för korrekt användning i alla kanaler.
 ---
 
@@ -81,7 +81,7 @@ Göteborgs Stads grafiska profil säkerställer en enhetlig och professionell ko
 
 ### Riktlinjer för typografi
 - **Textfärg:** Använd **endast svart (#1f1f1f) eller vit (#ffffff)** för att säkra tillgänglighet.
-- **Textstilar:** Versalgement (inledande stor bokstav fällt av små bokstäver).
+- **Textstilar:** Versalgement (inledande stor bokstav följt av små bokstäver).
 - **Betoning:** Använd **kursiv** eller **fet text** för betoning.
 - **Textjustering:** Vänsterställd text (centrerad text kan användas för kortare texter).
 
